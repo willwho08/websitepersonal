@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background: url(Top-10-Things-to-See-and-Do-in-the-Philippines.jpg) no-repeat;
-    background-attachment: fixed 100%, 100%;
+    background-attachment: fixed;
     background-size: cover;
   }
   .navbar-custom {
