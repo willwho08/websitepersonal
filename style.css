@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(Top-10-Things-to-See-and-Do-in-the-Philippines.jpg) no-repeat;
+    background: url(Top-10-Things-to-See-and-Do-in-the-Philippines.jpg) no-repeat fixed 100%, 100%;
     background-size: cover;
   }
   .box{
