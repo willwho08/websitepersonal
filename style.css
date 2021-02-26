@@ -255,7 +255,7 @@ img:hover {
   background: rgb(0, 91, 156);
   border-radius: 0.3rem;
   padding: 0.5rem;
-  font-size: x-large;
+  font-size: larger;
   font-family: 'Times New Roman';
 }
 
