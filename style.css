@@ -4,6 +4,9 @@ body{
     background: url(Top-10-Things-to-See-and-Do-in-the-Philippines.jpg) no-repeat;
     background-size: cover;
   }
+  .navbar-custom {
+  height: 100px;
+}
   .box{
     border-radius: 4%;
     border-style: solid;
