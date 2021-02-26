@@ -252,10 +252,10 @@ img:hover {
 
 .perso { 
   border-style: solid;
-  background: rgb(90, 90, 87);
+  background: rgb(0, 91, 156);
   border-radius: 0.3rem;
   padding: 0.5rem;
-  font-size: larger;
+  font-size: x-large;
   font-family: 'Times New Roman';
 }
 
