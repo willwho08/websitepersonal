@@ -251,6 +251,7 @@ img:hover {
 
 
 .perso { 
+  font-weight: bold;
   border-style: solid;
   background: rgb(0, 91, 156);
   border-radius: 0.3rem;
